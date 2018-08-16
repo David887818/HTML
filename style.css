@@ -1,0 +1,101 @@
+* {
+  margin: 0;
+  padding: 0; }
+
+@font-face {
+  font-family: myFirstFont;
+  src: url(pacifico.ttf); }
+@font-face {
+  font-family: semibolt;
+  src: url(SemiBold.ttf); }
+@font-face {
+  font-family: bolt;
+  src: url(Bold.ttf); }
+.semibolt {
+  font-size: 30px;
+  font-family: semibolt; }
+
+.semibolt1 {
+  font-size: 30px;
+  color: aliceblue;
+  font-family: semibolt; }
+
+.bolt {
+  font-family: bolt; }
+
+.gic {
+  height: 15px;
+  background-color: #2ecc71; }
+
+.notify {
+  font-family: myFirstFont;
+  color: aliceblue;
+  font-size: 80px;
+  margin-bottom: 2%; }
+
+.txt h3 {
+  color: aliceblue; }
+
+.txt {
+  padding-top: 10%;
+  padding-left: 15%; }
+
+.icon div {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 2%;
+  margin-left: 1%;
+  background-color: #39241a;
+  width: 50px;
+  height: 50px; }
+
+.icon div:hover {
+  background-color: #2ecc71; }
+
+.icon2 div:hover {
+  background-color: #2ecc71; }
+
+.second {
+  margin-top: 15%; }
+
+.icons {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #2ecc71;
+  width: 80px;
+  height: 80px; }
+
+.thrd {
+  height: 50vh;
+  background-color: #e3e3e3; }
+
+.emailcontainer, .video {
+  width: 35%; }
+
+.btn {
+  background-color: #2ecc71; }
+
+.icon2 div {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 2%;
+  margin-left: 1%;
+  background-color: #d4d4d4;
+  width: 50px;
+  height: 50px; }
+
+footer {
+  height: 10vh;
+  background-color: #e3e3e3; }
+
+footer div a {
+  color: #a8a8a8; }
+
+footer div a:hover {
+  color: #2ecc71;
+  text-decoration: none; }
+
+/*# sourceMappingURL=style.css.map */
